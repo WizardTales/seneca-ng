@@ -1,5 +1,5 @@
 {
-  "name": "seneca",
+  "name": "seneca-ng",
   "description": "A Microservices Framework for Node.js",
   "version": "3.25.0",
   "license": "MIT",
